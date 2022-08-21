@@ -1,4 +1,4 @@
-NetworkX
+Anuyash NetworkX
 ========
 
 .. image:: https://github.com/networkx/networkx/workflows/test/badge.svg?branch=main
